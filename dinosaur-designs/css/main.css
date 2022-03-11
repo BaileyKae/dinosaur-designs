@@ -48,21 +48,3 @@ nav a:hover {
 .intro {
   font-size: 1rem;
 }
-
-
-/* NOTE: this is all for the next stuff
-
-body {
-  background-color: #fdf63;
-
-}
-
-html {
-  box-sizing: border-box;
-}
-
-*, *::before, *::after {
-  box-sizing: inherit;
-}
-
-*/
